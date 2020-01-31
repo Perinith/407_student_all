@@ -1,0 +1,515 @@
+** Message: 11:32:15.040: environement.vala:58: Exporting primary_variable
+** Message: 11:32:15.040: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 11:32:15.040: environement.vala:150: confir_dirs is null, export : /etc/xdg
+** Message: 11:32:15.040: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 11:32:15.040: environement.vala:218: custom_data :/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:
+** Message: 11:32:15.040: environement.vala:219: data_dirs :/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+** Message: 11:32:15.040: environement.vala:220: data_dirs not null, export : /usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+** Message: 11:32:15.040: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 11:32:15.040: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE
+** Message: 11:32:15.040: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.040: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.041: settings.vala:540: Key file does not have key “iGtk/ColorScheme” in group “GTK”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “windows_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “panel/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “dock/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “file_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “desktop_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “launcher_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “composite_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “im1/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “im2/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “widget1/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “notification/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “keybindings/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “im_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “screensaver/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “power_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “polkit/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “audio_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “quit_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “quit_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “workspace_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “terminal_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “screenshot_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “lock_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “message_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “upgrade_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “updates_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “updates_manager/timeout” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “crash_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “crash_manager/dev_mode” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “crash_manager/timeout” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “clipboard/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “disable_autostart” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “upstart_user_session” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “xsettings_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “proxy_manager/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “proxy_manager/http” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “a11y/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “keyring/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “xrandr/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “network_gui/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “webbrowser/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “email/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “pdf_reader/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “video_player/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “audio_player/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “images_display/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “text_editor/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “archive/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “charmap/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “calculator/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “spreadsheet/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “bittorent/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “document/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “webcam/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “burn/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “notes/command” in group “Session”
+** Message: 11:32:15.042: settings.vala:540: Key file does not have key “disk_utility/command” in group “Session”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have key “tasks/command” in group “Session”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have group “Keymap”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have group “State”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have group “State”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have group “Dbus”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have group “Dbus”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have group “Environment”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have group “Environment”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have group “Environment”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have group “Environment”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have group “Environment”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have group “Environment”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have group “Environment”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have key “iXft/Hinting” in group “GTK”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have key “sXft/HintStyle” in group “GTK”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have key “sXft/RGBA” in group “GTK”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have key “sGtk/ColorScheme” in group “GTK”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have key “sGtk/CursorThemeName” in group “GTK”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have key “iGtk/ToolbarIconSize” in group “GTK”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have key “iNet/EnableEventSounds” in group “GTK”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have key “iNet/EnableInputFeedbackSounds” in group “GTK”
+** Message: 11:32:15.043: settings.vala:540: Key file does not have key “Beep” in group “Keyboard”
+** Message: 11:32:15.043: settings.vala:462: Monitoring: /etc/xdg/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.043: settings.vala:470: Desktop file is not in config home, monitoring creation of it
+** Message: 11:32:15.043: settings.vala:485: Monitoring home path: /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.043: settings.vala:373: Settings default for Session, windows_manager, command : openbox
+** Message: 11:32:15.043: settings.vala:373: Settings default for Session, windows_manager, session : LXDE
+** Message: 11:32:15.043: settings.vala:373: Settings default for Session, disable_autostart, (null) : no
+
+** (lxsession:9635): WARNING **: 11:32:15.043: settings.vala:917: Failed to create file “/etc/xdg/lxsession/LXDE/desktop.conf.HMJAF0”: Permission denied
+** Message: 11:32:15.044: settings.vala:462: Monitoring: /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.044: settings.vala:466: Desktop file is already in config home, do nothing
+** Message: 11:32:15.044: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE
+** Message: 11:32:15.044: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE/autostart
+** Message: 11:32:15.044: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE/autostart
+** Message: 11:32:15.044: settings.vala:373: Settings default for Session, polkit, command : lxpolkit
+** Message: 11:32:15.051: settings.vala:373: Settings default for Session, clipboard, command : lxclipboard
+** Message: 11:32:15.063: settings.vala:373: Settings default for Session, xsettings_manager, command : build-in
+** Message: 11:32:15.075: settings.vala:373: Settings default for Session, proxy_manager, command : build-in
+** Message: 11:32:15.085: settings.vala:373: Settings default for Session, keyring, command : ssh-agent
+** Message: 11:32:15.094: settings.vala:373: Settings default for GTK, iXft, Hinting : 1
+** Message: 11:32:15.103: settings.vala:373: Settings default for GTK, sXft, HintStyle : hintslight
+** Message: 11:32:15.113: settings.vala:373: Settings default for GTK, sXft, RGBA : rgb
+** Message: 11:32:15.122: settings.vala:373: Settings default for GTK, iNet, EnableEventSounds : 1
+** Message: 11:32:15.132: settings.vala:373: Settings default for GTK, iNet, EnableInputFeedbackSounds : 1
+** Message: 11:32:15.141: settings.vala:373: Settings default for GTK, sGtk, ColorScheme : 
+** Message: 11:32:15.153: settings.vala:373: Settings default for GTK, iGtk, ToolbarIconSize : 3
+** Message: 11:32:15.159: settings.vala:373: Settings default for GTK, sGtk, CursorThemeName : DMZ-White
+** Message: 11:32:15.164: settings.vala:373: Settings default for Keyboard, Beep, (null) : 1
+** Message: 11:32:15.174: settings.vala:373: Settings default for State, guess_default, (null) : true
+** Message: 11:32:15.183: settings.vala:373: Settings default for Dbus, lxde, (null) : true
+** Message: 11:32:15.192: settings.vala:373: Settings default for Environment, menu_prefix, (null) : lxde-
+** Message: 11:32:15.198: settings.vala:373: Settings default for Session, quit_manager, command : lxsession-logout
+** Message: 11:32:15.207: settings.vala:373: Settings default for Session, quit_manager, image : /usr/share/lxde/images/logout-banner.png
+** Message: 11:32:15.207: settings.vala:373: Settings default for Session, quit_manager, layout : top
+** Message: 11:32:15.207: settings.vala:373: Settings default for Session, lock_manager, command : lxlock
+** Message: 11:32:15.217: settings.vala:373: Settings default for Session, terminal_manager, command : lxterminal
+** Message: 11:32:15.222: settings.vala:373: Settings default for Session, launcher_manager, command : lxpanelctl
+** Message: 11:32:15.222: environement.vala:79: Exporting variable
+** Message: 11:32:15.222: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 11:32:15.223: environement.vala:177: custom_config :
+** Message: 11:32:15.223: environement.vala:178: config_dirs :/etc/xdg
+** Message: 11:32:15.223: environement.vala:179: confir_dirs not null, export : /etc/xdg
+** Message: 11:32:15.223: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 11:32:15.223: environement.vala:218: custom_data :
+** Message: 11:32:15.223: environement.vala:219: data_dirs :/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+** Message: 11:32:15.223: environement.vala:220: data_dirs not null, export : /usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+** Message: 11:32:15.223: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 11:32:15.223: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.223: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.223: environement.vala:254: No entry in [Environment_variable]. Key file does not have group “Environment_variable”
+** Message: 11:32:15.225: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE
+** Message: 11:32:15.225: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE/conffiles.conf
+** Message: 11:32:15.225: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE/conffiles.conf
+** Message: 11:32:15.225: options.vala:164: Activate xsettings_manager build-in
+** Message: 11:32:15.225: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.225: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: 11:32:15.243: app.vala:721: polkit separate
+** Message: 11:32:15.243: app.vala:721: polkit separate
+** Message: 11:32:15.275: app.vala:76: Launching lxpolkit 
+** Message: 11:32:15.275: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/autostart
+** Message: 11:32:15.275: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/autostart
+** Message: 11:32:15.275: autostart.vala:42: Autostart path : /home/student/.config/lxsession/LXDE/autostart
+** Message: 11:32:15.303: app.vala:76: Launching lxpanel 
+** Message: 11:32:15.317: app.vala:76: Launching pcmanfm 
+
+** (lxsession:9635): WARNING **: 11:32:15.328: app.vala:86: Failed to execute child process “xscreensaver” (No such file or directory)
+
+** (lxsession:9635): WARNING **: 11:32:15.328: app.vala:87: Error when launching xscreensaver
+** Message: 11:32:15.344: options.vala:107: Create build-in Clipboard
+** Message: 11:32:15.350: main.vala:442: Check keymap_mode (null)
+** Message: 11:32:15.363: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-rrI9ppfaGLDO/agent.9841; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=9844; export SSH_AGENT_PID;
+echo Agent pid 9844;
+** Message: 11:32:15.410: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:9837): WARNING **: 11:32:15.427: The directory '~/Templates' doesn't exist, ignoring it
+** Message: 11:32:15.434: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.434: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.434: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.434: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.436: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: 11:32:15.441: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.441: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.441: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.441: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.441: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+
+** (lxpanel:9834): WARNING **: 11:32:15.450: The directory '~/Templates' doesn't exist, ignoring it
+** Message: 11:32:15.462: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.462: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.462: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.462: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.462: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.476: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.477: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.477: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.477: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.477: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.497: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.497: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.497: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.497: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.497: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.506: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.506: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.506: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.506: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.506: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.519: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.519: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.519: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.519: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.519: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.534: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.534: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.534: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.534: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.534: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.539: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.539: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.539: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.539: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.539: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.545: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.545: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.545: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.545: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.545: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.550: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.550: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.550: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.550: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.550: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.558: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.558: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.558: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.558: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.558: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.572: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.572: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.572: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.572: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.572: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.604: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.605: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.605: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.605: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.605: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.613: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.613: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.613: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.613: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.613: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.629: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.629: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.629: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.629: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.629: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+dbus-daemon[9892]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=1001 pid=9848 comm="nm-applet " label="unconfined")
+** Message: 11:32:15.659: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.659: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.659: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.659: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.659: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+Openbox-Message: Requested key "XF86Terminal" does not exist on the display
+** Message: 11:32:15.677: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.677: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.677: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.677: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.677: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.712: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.712: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.712: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.712: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.712: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: 11:32:15.730: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.730: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.730: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.730: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.730: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.756: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.756: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.756: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.756: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.756: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.777: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.777: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.777: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.777: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.777: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.782: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.782: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.782: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.782: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.782: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.796: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.796: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.796: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.796: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.797: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.800: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.800: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.800: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.800: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.800: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.816: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.816: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.816: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.816: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.816: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+dbus-daemon[9892]: Successfully activated service 'org.a11y.atspi.Registry'
+SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+** Message: 11:32:15.842: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.842: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.842: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.842: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.842: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.853: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.853: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.853: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.853: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.853: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.858: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.858: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.858: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.858: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.858: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.869: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.869: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.869: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.869: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.869: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+
+(nm-applet:9848): Gtk-WARNING **: 11:32:15.887: Can't set a parent on widget which has a parent
+** Message: 11:32:15.894: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.894: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.894: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.895: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.895: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.902: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.902: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.902: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.903: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.903: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.913: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.913: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.913: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.913: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.913: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.924: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.924: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.924: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.924: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.924: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.937: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.937: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.937: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.937: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.937: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.959: settings.vala:503: Reload the xsettings option
+** Message: 11:32:15.959: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:15.959: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:15.959: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:15.959: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.000: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.000: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.000: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.000: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.000: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.016: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.016: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.016: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.016: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.016: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.034: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.034: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.034: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.034: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.034: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.043: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.043: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.043: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.043: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.043: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.065: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.065: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.065: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.065: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.065: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.076: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.076: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.077: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.077: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.077: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+
+** (light-locker:10042): ERROR **: 11:32:16.101: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+** Message: 11:32:16.106: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.106: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.106: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.106: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.106: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.125: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.125: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.125: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.125: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.125: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+
+(nm-applet:9848): Gdk-CRITICAL **: 11:32:16.126: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+** Message: 11:32:16.154: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.154: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.154: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.154: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.154: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.199: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.199: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.199: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.199: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.199: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.206: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.206: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.206: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.206: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.206: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.234: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.234: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.234: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.234: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.234: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.364: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.364: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.364: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.364: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.364: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.383: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.383: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.383: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.383: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.383: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.389: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.389: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.389: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.389: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.389: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.394: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.394: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.394: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.394: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.394: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.396: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.396: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.396: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.397: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.397: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.402: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.402: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.402: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.402: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.402: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.407: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.407: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.407: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.407: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.407: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.416: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.416: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.416: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.416: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.416: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.424: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.424: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.424: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.424: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.424: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.428: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.428: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.428: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.428: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.428: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.436: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.436: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.436: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.436: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.436: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.439: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.439: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 11:32:16.439: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:16.439: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.439: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:16.455: settings.vala:503: Reload the xsettings option
+** Message: 11:32:16.459: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+** Message: 11:32:19.639: settings.vala:515: Desktop file created in home directory, switch configuration to it
+** Message: 11:32:19.639: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:19.639: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:19.639: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:19.643: settings.vala:503: Reload the xsettings option
+** Message: 11:32:19.644: settings.vala:462: Monitoring: /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:19.644: settings.vala:466: Desktop file is already in config home, do nothing
+** Message: 11:32:19.644: settings.vala:515: Desktop file created in home directory, switch configuration to it
+** Message: 11:32:19.644: options.vala:186: Reload xsettings_manager build-in
+** Message: 11:32:19.644: utils.vala:68: User config used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:19.644: utils.vala:89: Final file used : /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:19.648: settings.vala:503: Reload the xsettings option
+** Message: 11:32:19.649: settings.vala:462: Monitoring: /home/student/.config/lxsession/LXDE/desktop.conf
+** Message: 11:32:19.649: settings.vala:466: Desktop file is already in config home, do nothing
+lxterminal
+
+(lxterminal:10289): Vte-WARNING **: 11:32:20.487: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+
+(lxterminal:10289): Vte-WARNING **: 11:32:20.487: (../../src/vtegtk.cc:1906):int vte_terminal_match_add_gregex(VteTerminal*, GRegex*, GRegexMatchFlags): runtime check failed: (g_regex_get_compile_flags(gregex) & G_REGEX_MULTILINE)
+Openbox-Message: Requested key "XF86Terminal" does not exist on the display
+Openbox-Message: Requested key "XF86Terminal" does not exist on the display
+Openbox-Message: Requested key "XF86Terminal" does not exist on the display
+Openbox-Message: Requested key "XF86Terminal" does not exist on the display
+Openbox-Message: Requested key "XF86Terminal" does not exist on the display
+Openbox-Message: Requested key "XF86Terminal" does not exist on the display
+libreoffice --calc 
+javaldx: Could not find a Java Runtime Environment!
+Please ensure that a JVM and the package libreoffice-java-common
+is installed.
+If it is already installed then try removing ~/.libreoffice/3/user/config/javasettings_Linux_*.xml
+Warning: failed to read path from javaldx

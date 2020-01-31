@@ -1,0 +1,9 @@
+---
+- hosts: localhost
+  vars_files:
+          - ~/mypasswords.yml
+
+  tasks:
+          - name: print a password to the screen
+            debug:
+                    var: password2

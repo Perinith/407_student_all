@@ -1,0 +1,10 @@
+---
+- hosts: localhost
+  gather_facts: false
+
+  collections:
+  - dellemc.powermax
+
+  tasks:
+  - name: try to run a dell emc module
+    dellemc_powermax_gatherfacts:
